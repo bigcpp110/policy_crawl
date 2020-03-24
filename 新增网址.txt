@@ -1,0 +1,487 @@
+
+
+
+地区 国务院
+国家 http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/
+
+
+地区 外交部
+国家 https://www.fmprc.gov.cn/web/wjdt_674879/sjxw_674887/ 
+
+
+地区 国防部
+国家 http://www.mod.gov.cn/regulatory/index.htm 
+河北 http://hbgf.hebnews.cn/node_118305.htm 
+
+
+地区 国家航天局
+国家 http://www.cnsa.gov.cn/n6758823/n6758839/index.html 
+地区 国务院国有资产监督管理委员会
+国家 http://www.sasac.gov.cn/n2588035/n2588320/ 
+河北 http://hbsa.hebei.gov.cn/p/ 
+内蒙古 http://gzw.nmg.gov.cn/zwgk/zcfg/ 
+辽宁 http://gzw.ln.gov.cn/xxgk/zc/zcfb/ 
+吉林 http://gzw.jl.gov.cn/zcwj/ 
+黑龙江 http://gzw.hlj.gov.cn/zcfg/ 
+江苏 http://jsgzw.jiangsu.gov.cn/col/col49542/index.html?number=10 
+浙江 http://gzw.zj.gov.cn/col/col569/index.html 
+安徽 http://gzw.ah.gov.cn/xxgk/xxgk.jsp?_index=3 
+江西 http://gzw.jiangxi.gov.cn/col/col22977/index.html 
+山东 http://gzw.shandong.gov.cn/channels/ch05552/ 
+河南 http://hnsasac.gov.cn/list.do?newslist&classId=67 
+湖南 http://gzw.hunan.gov.cn/gzw/xxgk_71571/zcfg/dfxfg/index.html 
+广东 http://gzw.gd.gov.cn/zcfg/index.html 
+广西 http://gzw.gxzf.gov.cn/html/wenjianzhongxin/gfxwjhb20042015/ 
+海南 http://www.hainan.gov.cn/hainan/swygwj/list3.shtml 
+四川 http://www.scgz.gov.cn/ 
+贵州 http://gzw.guizhou.gov.cn/zwgk/xxgkml/zcwj/ 
+陕西 http://sxgz.shaanxi.gov.cn/newstyle/pub_newschannel.asp?chid=100127 
+甘肃 http://gzw.gansu.gov.cn:81/html/71list-1.html 
+宁夏 http://gzw.nx.gov.cn/zcfg/zcwj/ 
+新疆 http://www.xjgzw.gov.cn/zcfg/zzqgzwgfxwj.htm 
+北京 http://gzw.beijing.gov.cn/xxfb/zcfg/ 
+上海 https://www.gzw.sh.gov.cn/website/html/shgzw/shgzw_flfg_zcfg_gfxwj/List/list_0.htm 
+天津 http://sasac.tj.gov.cn/xxgk/flfg 
+重庆 http://gzw.cq.gov.cn/gzjg/jgzd/default_1.shtml 
+广州 http://gzw.gz.gov.cn/gk/zcfg/zcfgwj/index.html 
+深圳 http://gzw.sz.gov.cn/zwgk/zcfgjzcjd/zcfg/ 
+南京 http://gzw.nanjing.gov.cn/njsgyzcjdglwyh/?id=221 
+武汉 http://gzw.wuhan.gov.cn/html/zcfg/zcfg/ 
+杭州 http://gzw.hangzhou.gov.cn/col/col1689580/index.html  
+ 
+地区 国家国际发展合作署
+国家 http://www.cidca.gov.cn/xxfb.htm
+
+
+地区 国家语言文字工作委员会
+国家 http://www.moe.gov.cn/s78/A18/A18_zcwj/      语言文字应用管理司     
+	http://www.moe.gov.cn/s78/A19/A19_zcwj/     语言文字信息管理
+
+地区 公安部
+国家 https://www.mps.gov.cn/n6557558/index.html 
+内蒙古 http://gat.nmg.gov.cn/channel/nmg_gat/col22083f.html 
+辽宁 http://www.ln.gov.cn/zfxx/zfxxgk1/xgfgwj/index.html 
+吉林 http://gat.jl.gov.cn/zwgk/zcfg/ 
+江苏 http://www.jsga.gov.cn/xxgk/wjfg/ 
+浙江 http://gat.zj.gov.cn/col/col1228970583/index.html       法规文件
+安徽 http://gat.ah.gov.cn/zfxxgk/?ym=zcfg/index.html&lm=ff80808148b9f1ec0148bb2290a204b3     政策法规
+江西 http://www.jxga.gov.cn/zwgk/zhengcefagui/zhengcewenjian/  
+河南 http://www.henanga.gov.cn/zwzx/zwzx1/fgwj/  
+湖南 http://gat.hunan.gov.cn/channel/111/index.html  
+广东 http://gdga.gd.gov.cn/xxgk/zcfg/index.html  
+广西 http://gat.gxzf.gov.cn/zwgk/jcxxgk/bbmwj/index.html   
+海南 http://www.hainan.gov.cn/hainan/swygwj/list3.shtml   
+四川 http://gat.sc.gov.cn/xxgk/jwgk/zcwj/   
+贵州 http://gat.guizhou.gov.cn/jwgk/xxgkml/zcwj/bmwj/   
+云南 http://gonganting.yn.gov.cn/list6445.aspx   
+陕西 http://www.shxga.gov.cn/site/gonganting/s_zfwj/index.html   
+甘肃 http://gat.gansu.gov.cn//zhl/ghjh/index.shtml   
+青海 http://zwgk.qh.gov.cn/zcwj/   
+宁夏 http://gat.nx.gov.cn/zfxxgk/gabwj.htm   
+新疆 http://xjgat.gov.cn/Home/Index/xxgkList/id/32.html   
+北京 http://gaj.beijing.gov.cn/wsgs/zcfg/index.html   
+上海 https://gaj.sh.gov.cn/shga/wzXxfbZfgkml/toGfxwj   
+天津 http://ga.tj.gov.cn/tztg/index.shtml   
+重庆 http://gaj.cq.gov.cn/zcwj/   
+广州 http://gdga.gd.gov.cn/xxgk/zcfg/index.html   
+深圳 http://ga.sz.gov.cn/ZWGK/ZCFG/SZZCFGS/   
+南京 http://gaj.nanjing.gov.cn/njsgaj/?id=221    
+武汉 http://gaj.wuhan.gov.cn/gfxwj/index.jhtml   
+杭州 http://gat.zj.gov.cn/col/col1228970583/index.html?number=A003    
+
+
+地区 国家外国专家局
+国家 http://www.safea.gov.cn/kjzc/
+
+
+地区 国家核安全局
+国家 http://nnsa.mee.gov.cn/zcfg_8964/zc/
+
+
+地区 住房和城乡建设部
+国家 http://www.mohurd.gov.cn/wjfb/index.html 
+河北 http://zfcxjst.hebei.gov.cn/zhengcewenjian/tongbaogongshi/   
+山西 http://zjt.shanxi.gov.cn/Main/list.action?channelId=15   
+内蒙古 http://zjt.nmg.gov.cn/website/main/channel.aspx?fcol=11000704   
+辽宁 http://zjt.ln.gov.cn/tfwjx/lzj/   
+吉林 http://jst.jl.gov.cn/zcfg/wjxx/   
+江苏 http://jsszfhcxjst.jiangsu.gov.cn/col/col8639/index.html   
+浙江 http://jst.zj.gov.cn/col/col1569939/index.html?number=B0102  
+福建 http://zjt.fujian.gov.cn/xxgk/zxwj/zxwj/   
+江西 http://www.jxjst.gov.cn/zcwj_1/   
+山东 http://zjt.shandong.gov.cn/col/col103762/index.html   
+河南 http://www.hnjs.gov.cn/xxgk/category/文件通知/信息公开   
+湖北 http://zjt.hubei.gov.cn/fbjd/dtyw/tzgg/   
+湖南 http://zjt.hunan.gov.cn/zjt/xxgk/zcfg/gjjfg/index.html   
+广东 http://zfcxjst.gd.gov.cn/xxgk/wjtz/index.html   
+广西 http://zjt.gxzf.gov.cn/news/newslist.aspx?InfoLabelID=218&Area=450000   
+海南 http://www.hainan.gov.cn/hainan/tjgw/list3.shtml   
+四川 http://jst.sc.gov.cn/industry-76.html   
+贵州 http://zfcxjst.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/flfg/   
+云南 http://zfcxjst.yn.gov.cn/list.aspx?id=4   
+西藏 http://www.xzcs.gov.cn/zcdfgz/index.jhtml   
+陕西 http://js.shaanxi.gov.cn/zcfagui/list2031.htm   
+甘肃 http://zjt.gansu.gov.cn/   
+青海 http://zjt.qinghai.gov.cn/html/51/List.html   
+宁夏 http://jst.nx.gov.cn/zcfg/tfwj.htm   
+新疆 http://www.xjjs.gov.cn/html/zcfg/   
+北京 http://zjw.beijing.gov.cn/bjjs/zwgk/fgwj11/index.shtml   
+上海 http://jsjtw.sh.gov.cn/zjw/gfxwj/index.html   
+天津 http://zfcxjs.tj.gov.cn/xxgk_70/zcjd/  
+重庆 http://zfcxjw.cq.gov.cn/xxgk/jsfg/   
+广州 http://zfcj.gz.gov.cn/zwgk/zcfg/flfg/index.html   
+深圳 http://zjj.sz.gov.cn/csml/zcfg/xxgk/zcfg_1/zcfg/?cid=142659   
+南京 http://sjw.nanjing.gov.cn/njscxjswyh/?id=221   
+武汉 http://cjw.wuhan.gov.cn/node/node_1663.htm  
+杭州 http://cxjw.hangzhou.gov.cn/col/col1228985153/index.html
+
+
+地区 应急管理部
+国家 https://www.mem.gov.cn/gk/tzgg/  
+河北 http://www.hbpsstc.com/a/xinwenzhongxin/tongzhigonggao/index.html   
+山西 http://yjt.shanxi.gov.cn/web/gwgg/sajjgwgg/zcfg/index.html   
+内蒙古 http://yjglt.nmg.gov.cn/list.html?cid=466   
+吉林 http://yjt.jl.gov.cn/gwtg/yjtwj/   
+黑龙江 http://www.hlsafety.gov.cn/flfg/zhengcefg/   
+江苏 http://ajj.jiangsu.gov.cn/col/col64987/index.html   
+浙江 http://yjt.zj.gov.cn/col/col1228978445/index.html   
+安徽 http://yjt.ah.gov.cn/public/column/19763400?type=4&catId=19763462&action=list   
+福建 http://yjt.fujian.gov.cn/zwgk/zcfg/dfxfg/   
+江西 http://yjglt.jiangxi.gov.cn/aspx/news_list.aspx?category_id=15   
+山东 http://yjt.shandong.gov.cn/was5/web/search?channelid=261722   
+河南 http://yjglt.henan.gov.cn/zwgk/xxgkml/zcfg/   
+湖南 http://yjglt.henan.gov.cn/zwgk/xxgkml/zcfg/   
+广东 http://yjglt.hainan.gov.cn/xxgk/0500/  
+广西 http://yjj.nanning.gov.cn/zwgk/zdgk/tzgg/   
+海南 http://yjglt.hainan.gov.cn/xxgk/0500/   
+四川 https://yjt.sc.gov.cn/0100a1215ddb595b498484222eb3fc50bde1.html    
+贵州 http://yjgl.guizhou.gov.cn/zwgk/zfxxgkml/zfwj/gwywj/index.html   
+云南 http://yjglt.yn.gov.cn/gggw/    
+西藏 http://www.tibetsafety.gov.cn/sitesources/xzajj/page_pc/zcfg/gz/list1.html   
+陕西 http://www.shaanxi.gov.cn/info/iList.jsp?node_id=GKszfbgt&file_head=陕西省人民政府令&tm_id=69    
+甘肃 http://yjgl.gansu.gov.cn/col/col66/index.html?number=N00001   
+青海 http://yjt.qinghai.gov.cn/html/gwgg/qhmjjwj/list_15_1.html   
+宁夏 http://nxyjglt.nx.gov.cn/xxgk/jcgk/yjgl/   
+北京 http://yjglj.beijing.gov.cn/col/col6032/index.html   
+上海 http://yjglj.sh.gov.cn/info/iList.jsp?node_id=GKxxgk&cat_id=10086   
+天津 http://yjgl.tj.gov.cn/tj/zhengwugongkai/wenjiantonggao/anweihuiwenjian/index.html#page_1   
+重庆 http://yjj.cq.gov.cn//GongWenList.jsp?id=yjwj&random=0.9145307667734701&argId=VcstJsuQkCIqvC5k1KqGldk23budOpYddA74dD0g9NkZ4DfNEEfldUjahWMIJZzA   
+广州 http://yjglj.gz.gov.cn/zxgz/zcfg/index.html   
+深圳 http://yjgl.sz.gov.cn/zwgk/xxgkmu/qt/tzgg/   
+南京 http://safety.nanjing.gov.cn/njsaqscjdglj/?id=221   
+武汉 http://ajj.wuhan.gov.cn/portal/list/index/id/40.html   
+杭州 http://safety.hangzhou.gov.cn/col/col1682772/index.html
+
+
+地区 国家海洋局（自然资源厅）
+国家 http://www.nmdis.org.cn/hyxw/ggtz/  
+河北 http://zrzy.hebei.gov.cn/heb/gk/zcfgk/   
+山西 http://zrzyt.shanxi.gov.cn/zwgk/tzgg/   
+内蒙古 http://zrzy.nmg.gov.cn/zwgk/flfg/   
+辽宁 http://zrzy.ln.gov.cn/zwgk/fgwj/   
+吉林 http://zrzy.jl.gov.cn/zwgk/fgwj/   
+江苏 http://zrzy.jiangsu.gov.cn/gtxxgk/nrglIndex.action?classID=4028816b2ba99e43012ba9a501480006   
+安徽 http://zrzyt.ah.gov.cn/zwgk/index.jsp?cat_no=040000   
+福建 http://zrzyt.fujian.gov.cn/xxgk/flfg/   
+江西 http://bnr.jiangxi.gov.cn/Column.shtml?p5=104   
+山东 http://dnr.shandong.gov.cn/zwgk_324/zcwj/   
+河南 http://dnr.henan.gov.cn/viewCmsCac.do?cacId=ff8080814d40886d014d425b0e4c001c   
+湖南 http://zrzyt.hunan.gov.cn/zrzyt/xxgk/zcfg/index.html   
+广东 http://nr.gd.gov.cn/zwgknew/zcfg/index.html   
+广西 http://dnr.gxzf.gov.cn/columnShow?id=1   
+海南 http://lzr.hainan.gov.cn/xxgk/zcfg_list_2.jsp?urltype=tree.TreeTempUrl&wbtreeid=1067   
+四川 http://dnr.sc.gov.cn/scdnr/c102856/zhengwu_list.shtml   
+贵州 http://zyghj.guiyang.gov.cn/zfxxgk/fdzdgknr/fggw/FLFG/  
+云南 http://dnr.yn.gov.cn/html/zfwj/index.html  
+西藏 http://www.xzgtt.gov.cn/zwgk/flfg_4659/   
+陕西 http://gtzyt.shaanxi.gov.cn/flgz/zcgg/bmgz.htm   
+甘肃 http://zrzy.gansu.gov.cn/xxgkSUBJ480--1.htm   
+青海 http://zrzyt.qinghai.gov.cn/public-?vid=16   
+宁夏 http://zrzyt.nx.gov.cn/gk/zrzyb/  
+新疆 http://www.xjgtzy.gov.cn/   
+北京 http://www.xjgtzy.gov.cn/   
+上海 http://ghzyj.sh.gov.cn/zcfg/index.html   
+天津 http://ghhzrzy.tj.gov.cn/twopage.aspx?id=CK58     
+重庆 http://ghzrzyj.cq.gov.cn/zwgk_186/fdzdgknr/?id=32173  
+广州 https://www.gzlpc.gov.cn/gzlpc/zwgk_xxgkml/xxgk.shtml?catecode=2&tempname=xxgk_list   
+深圳 http://pnr.sz.gov.cn/xxgk/zcwj/zcfg/   
+南京 http://ghj.nanjing.gov.cn/njsgtzyj/?id=221   
+武汉 http://gtghj.wuhan.gov.cn/pt-243-3.html   
+杭州 http://gtj.hangzhou.gov.cn/col/col1363114/index.html  
+
+
+ 
+地区 国家统计局
+国家 http://www.stats.gov.cn/tjgz/tzgb/ 
+河北 http://tjj.hebei.gov.cn/hetj/wjtg/  
+山西 http://tjj.shanxi.gov.cn/tjzn/tjfg/   
+内蒙古 http://tj.nmg.gov.cn/tzgg/index.html   
+辽宁 http://www.ln.stats.gov.cn/tjgz/tztg/   
+吉林 http://tjj.jl.gov.cn/zwgk/tzgg/   
+黑龙江 http://www.hlj.stats.gov.cn/zwgk/bmwj/   
+江苏 http://stats.jiangsu.gov.cn/col/col4416/index.html   
+浙江 http://tjj.zj.gov.cn/col/col1525531/index.html   
+安徽 http://tjj.ah.gov.cn/public/column/6981?type=4&catId=47481841&action=list   
+福建 http://tjj.fujian.gov.cn/xxgk/fgwj/gfxwj/  
+江西 http://www.jxsf.gov.cn/Browse/NewList.aspx?md5_url=BAB90885AD2A3855   
+山东 http://sft.shandong.gov.cn/channels/ch04210/   
+河南 https://www.lawxp.com/statutes/s30938.html   
+湖南 http://sft.hunan.gov.cn/sft/xxgk_71079/zcfg/dfxfg/index.html   
+广东 http://sft.gd.gov.cn/sfw/gov_gk/law/index.html   
+广西 https://www.lawxp.com/statutes/s27822.html   
+海南 http://justice.hainan.gov.cn/xxgk/0200/0202/?ClassInfoId=2009   
+四川 http://sft.sc.gov.cn/sftzww/gfxwj/ztzl_list3.shtml   
+贵州 http://sft.guizhou.gov.cn/zwgk_97/xxgkml/jcxxgk/zcwj/   
+云南 http://sft.yn.gov.cn/xxgfxwjml/index.jhtml   
+西藏 http://sft.xizang.gov.cn/xwzx/gsgg/   
+陕西 http://sft.shaanxi.gov.cn/public/zwgk/indexPage?type=sxxlist&mlid=00160005&unitid=000400010001   
+甘肃 http://sft.gansu.gov.cn/List/10   
+青海 http://sft.qinghai.gov.cn/pub/qhsfxzw/xxgg/   
+宁夏 https://sft.nx.gov.cn/list?type=3174014360704127782&current=1    
+新疆 http://www.xjsft.gov.cn/sfxz/sfdt/index.htm   
+北京 http://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/index.html   
+上海 http://sfj.sh.gov.cn/zwdt_tzgg/index.html   
+天津 http://sf.tj.gov.cn/zcfg/   
+重庆 http://sfj.cq.gov.cn/falvfagui/   
+广州 http://sfj.gz.gov.cn/gkmlpt/index#14266   
+深圳 http://sf.sz.gov.cn/fggzsjcx/   
+南京 http://sfj.nanjing.gov.cn/njssfj/?id=221   
+武汉 http://sfj.wh.gov.cn/list-86aefadac7d64414a0885b40e31d0704.html   
+杭州 http://sf.hangzhou.gov.cn/col/col1659364/index.html
+
+
+
+地区 国家广电局
+国家 http://www.sapprft.gov.cn/sapprft/govpublic/6679.shtml   
+河北 http://www.hbcbgd.gov.cn/lists/1/17.html   
+山西 http://gdj.shanxi.gov.cn/other.aspx?p=1&id=38-62-14-6.XTJ   
+内蒙古 http://gbdsj.nmg.gov.cn/index.php?m=content&c=index&a=lists&catid=52   
+辽宁 http://gdj.ln.gov.cn/zwxx/xzfg/  
+吉林 http://gdj.jl.gov.cn/zwgk/tzgg/  
+黑龙江 http://gdj.jl.gov.cn/zwgk/tzgg/   
+江苏 http://jsgd.jiangsu.gov.cn/col/col69998/index.html   
+浙江 http://gdj.zj.gov.cn/col/col1228991471/index.html   
+安徽 http://gdj.ah.gov.cn/public/column/7061?type=4&catId=47483791&action=list   
+福建 http://xwcbgdj.fujian.gov.cn/gkai/fgwj/   
+江西 http://gdj.jiangxi.gov.cn/col/col28925/index.html   
+山东 http://gd.shandong.gov.cn/channels/ch02462/   
+河南 http://gd.henan.gov.cn/html/1/552/565/631/index.html    
+湖南 http://gbdsj.hunan.gov.cn/gbdsj/xxgk/zcfg/index.html   
+广东 http://www.xwcbgdj.gd.gov.cn/xwcbgdj/dffg/common_list.shtml   
+广西 http://gbdsj.gxzf.gov.cn/html/infoDis/falvfagui/   
+海南 http://lwt.hainan.gov.cn/xxgk_55333/0500/   
+四川 http://gdj.sc.gov.cn/xxgk/sjwj/   
+贵州 http://gbdsj.guizhou.gov.cn/zwgk/zdgk/zcfg/bmgz/   
+云南 http://ynsgbdsj.yn.gov.cn/xg_xxgk/xg_xxgk_zcfg/xg_xxgk_zcfg_bmgz/   
+陕西 http://www.srftd.gov.cn/zcfg/bwgz.htm   
+甘肃 http://gdj.gansu.gov.cn/home/infomation/item/sid/37.html   
+青海 http://gdj.qinghai.gov.cn/channel/5dd625f11e8299f68516e57b.html   
+宁夏 http://gdj.nx.gov.cn/gdzwgk/gfxwj/   
+北京 http://gdj.beijing.gov.cn/zwxx/zcjd/flfghgz1/   
+上海 http://whlyj.sh.gov.cn/shswhhlyj/gkfw/gkfw.html   
+广州 http://gbdsj.gd.gov.cn/zwgk/zcfg/index.html
+
+
+地区 生态环境部
+国家 http://www.mee.gov.cn/zcwj/  
+河北 http://hbepb.hebei.gov.cn/xwzx/szfwj/   
+山西 http://sthjt.shanxi.gov.cn/html/tingfwj/   
+内蒙古 http://sthjt.nmg.gov.cn/zwgk/twj/   
+吉林 http://sthjt.jl.gov.cn/xxfb/tzgg/   
+黑龙江 http://www.hljdep.gov.cn/docweb/docList.action?channelId=4604&parentChannelId=4412   
+江苏 http://hbt.jiangsu.gov.cn/col/col1571/index.html   
+浙江 http://sthjt.zj.gov.cn/col/col1201520/index.html?number=A001H001   
+安徽 http://sthjt.ah.gov.cn/pages/NewsList.aspx?MenuID=001001   
+福建 http://sthjt.fujian.gov.cn/zwgk/flfg/   
+江西 http://sthjt.jiangxi.gov.cn/zwgk/wjfg/index.shtml  
+山东 http://sthj.shandong.gov.cn/zwgk/gsgg/   
+河南 http://www.hnep.gov.cn/xxzy/flfg/H600508index_1.htm   
+湖南 http://sthjt.hunan.gov.cn/sthjt/xxgk/zcfg/index.html   
+广东 http://gdee.gd.gov.cn/shbtwj/index.html   
+广西 http://sthjt.gxzf.gov.cn/wsbs_w_new/wjgg/   
+海南 http://hnsthb.hainan.gov.cn/xxgk/0200/0202/zwgk/zcfg/   
+四川 http://sthjt.sc.gov.cn/sthjt/c103956/xxgk.shtml   
+贵州 http://sthj.guizhou.gov.cn/tzwj/   
+云南 http://sthjt.yn.gov.cn/zwxx/zfwj/yhf/   
+陕西 http://sthjt.shaanxi.gov.cn/service/files/shdz/   
+甘肃 http://sthj.gansu.gov.cn/govinfoclass.jsp?urltype=egovinfo.EgovTreeURl&wbtreeid=1264&type=egovinfosubcattree&sccode=B&subtype=1&gilevel=1   
+青海 http://sthjt.qinghai.gov.cn/xwzx/gzdt/stdt/   
+宁夏 http://sthjt.nx.gov.cn/gsgg.htm
+
+
+地区 农村农业部
+国家 http://www.moa.gov.cn/gk/zcfg/   
+河北 http://invest.guizhou.gov.cn/xxgk/xxgkml/zcwj/bmwj/202002/t20200210_48169222.html   
+山西 http://nynct.shanxi.gov.cn/xxgk/hydt/   
+内蒙古 http://nmt.nmg.gov.cn/gk/zfxxgk/xxgkml/zcfg/   
+辽宁 http://nync.ln.gov.cn/tzgg/   
+吉林 http://agri.jl.gov.cn/zwgk/zcfg/  
+黑龙江 http://nynct.hlj.gov.cn/nwwj/wwj/  
+江苏 http://nynct.jiangsu.gov.cn/col/col11977/index.html   
+浙江 http://www.zjagri.gov.cn/col/col1589297/index.html   
+安徽 http://nync.ah.gov.cn/more.asp?typeid=11   
+福建 http://nynct.fujian.gov.cn/xxgk/zcfg/   
+江西 http://nync.jiangxi.gov.cn/col/col27936/index.html   
+山东 http://nync.jiangxi.gov.cn/col/col27936/index.html   
+河南 http://nynct.henan.gov.cn/wjtz/   
+湖北 http://nyt.hubei.gov.cn/fbjd/tzgg/   
+湖南 http://agri.hunan.gov.cn/agri/xxgk/zcfg/index.html   
+广东 http://dara.gd.gov.cn/zcfg2295/index.html   
+广西 http://www.gxny.gov.cn/xxgk/jcxxgk/tzgg_43/   
+海南 http://agri.hainan.gov.cn/hnsnyt/xxgk/zfwj/   
+四川 http://nynct.sc.gov.cn/nynct/c100675/nav_list.shtml   
+贵州 http://nynct.guizhou.gov.cn/zwgk/xxgkml/?url=37063&ClassInfoId=37063   
+云南 https://nync.yn.gov.cn/news5/   
+西藏 http://nynct.xizang.gov.cn/hdjl/rdhy/zcfg/   
+陕西 http://nynct.shaanxi.gov.cn/www/stwj1187/index.html   
+甘肃 http://nync.gansu.gov.cn/apps/site/site/issue/zcfg/dfxfg/index.html   
+青海 http://nynct.qinghai.gov.cn/Sites/qhnmt/List_230537_233455.html   
+宁夏 http://nynct.nx.gov.cn/zwgk/zfxxgkml/?id=23963   
+新疆 http://www.xj-agri.gov.cn/falfg/index.jhtml   
+上海 http://nyncw.sh.gov.cn/gsgg/   
+天津 http://nync.tj.gov.cn/zwgk_13546/zcfg/   
+重庆 http://nyncw.cq.gov.cn/list.aspx?psi=6&ci=4644   
+广州 http://nyncj.gz.gov.cn/zw/flfg/bmgz/   
+南京 http://nyncj.nanjing.gov.cn/njsnywyh/?id=221   
+武汉 http://nw.wuhan.gov.cn/newsCenter.htm?id=c1ed1158-6575-4a95-95c3-ba6004a25fd1   
+杭州 http://agri.hangzhou.gov.cn/col/col1692135/index.html
+
+
+地区 退役军人事务部
+国家 http://www.moa.gov.cn/gk/zcfg/
+
+
+地区 国家体育总局
+国家 http://www.gov.cn/zhengce/zuixin.htm   
+河北 http://www.hebsport.gov.cn/gongchengjianshe/zhengcefagui/   
+山西 http://tyj.shanxi.gov.cn/mainmodule/81.html   
+内蒙古 http://tyj.nmg.gov.cn/channel/nmgtyjx/col22384f.html   
+辽宁 http://tyj.ln.gov.cn/zfxxgk/fgwj/   
+吉林 http://tyj.jl.gov.cn/zwgk/zcfg/    
+黑龙江 http://tyj.hlj.gov.cn/news/0?pathcode=2&actIdx=2-4  
+江苏 http://jsstyj.jiangsu.gov.cn/col/col48316/index.html   
+浙江 http://www.zjsports.gov.cn/col/col1347266/index.html   
+福建 http://tyj.fujian.gov.cn/zwgk/zcfg/   
+江西 http://www.jxsport.gov.cn/zwgk/zcfg/   
+山东 http://ty.shandong.gov.cn/zwgk/zcfg/fgwj/   
+河南 http://www.henantiyu.com/sitesources/hnstyj/page_pc/zcfg/list1.html   
+湖南 http://tyj.hunan.gov.cn/tyj/xxgk/zcfg/index.html   
+
+广西 http://tyj.gxzf.gov.cn/publicity/zcfg   
+四川 http://tyj.sc.gov.cn/sctyj/zywj/xwzx_tygl.shtml   
+贵州 http://tyj.guizhou.gov.cn/zhxw/szfwj/   
+云南 http://tyj.yn.gov.cn/news_list.aspx?category_id=66   
+西藏 http://www.sport.xizang.gov.cn/zwgk/zcfg/   
+陕西 http://www.sxty.gov.cn/detail/list/34   
+甘肃 http://tyj.gansu.gov.cn/zhengcefagui/   
+青海 http://tyj.qinghai.gov.cn/Category_11/Index.aspx   
+宁夏 http://www.nxsport.gov.cn/Html/NewsList.asp?SortPath=0,118,120,&SortID=120   
+新疆 http://tyj.xinjiang.gov.cn/a/zwgk/zhengcefagui/   
+北京 http://tyj.beijing.gov.cn/bjsports/zcfg15/fgwj/zfgz/index.html   
+上海 http://tyj.sh.gov.cn/General/PublicInformation  
+天津 http://ty.tj.gov.cn/index.php/Home/Index/category/cate/zcfg/p/1.html  
+重庆 http://tyj.cq.gov.cn/zwgk_253/fdzdgknr/zcwj/   
+广州 http://tyj.gz.gov.cn/gkmlpt/index#532   
+南京 http://sports.nanjing.gov.cn/njstyj/?id=221   
+武汉 http://tyj.wuhan.gov.cn/html/1/150/171/index.html   
+杭州 http://ty.hangzhou.gov.cn/col/col1693538/index.html
+
+
+地区 国家民族事务委员会
+国家 http://www.seac.gov.cn/seac/xxgk/zcfb/index.shtml
+
+
+地区 司法部
+国家 http://www.moj.gov.cn/news/node_bnyw.html   
+河北 http://sft.hebei.gov.cn/zcwj/   
+山西 http://sft.shanxi.gov.cn/SXSFWEB/sxsfweb_wjgb   
+内蒙古 http://sft.nmg.gov.cn/zcfg/flfgk/   
+辽宁 http://sft.ln.gov.cn/sft_zfxxgk/sft_gsgg/   
+吉林 http://sft.jl.gov.cn/zwgk_158944/gsgg/   
+黑龙江 http://sft.hlj.gov.cn/web/news/announcement.html   
+江苏 http://sft.jiangsu.gov.cn/col/col48530/index.html   
+浙江 http://sft.zj.gov.cn/col/col1659560/index.html   
+安徽 http://sft.ah.gov.cn/public/column/4228648?type=4&catId=36934060&action=list   
+福建 http://sft.fujian.gov.cn/zwgk/zxwj/tfwj/    
+江西 http://www.jxsf.gov.cn/Browse/NewList.aspx?md5_url=BAB90885AD2A3855   
+山东 http://sft.shandong.gov.cn/channels/ch04210/   
+河南 http://www.hnfzw.gov.cn/sitesources/hnsft/page_pc/zwgk/xxgkml/twj/list1.html   
+湖南 http://sft.hunan.gov.cn/sft/xxgk_71079/zcfg/dfxfg/index.html   
+广东 http://sft.gd.gov.cn/sfw/gov_gk/zcwj/index.html   
+海南 http://sft.sc.gov.cn/sftzww/gfxwj/ztzl_list3.shtml   
+四川 http://sft.sc.gov.cn/sftzww/gfxwj/ztzl_list3.shtml   
+贵州 http://sft.guizhou.gov.cn/zwgk_97/xxgkml/jcxxgk/zcwj/   
+云南 http://db.ynrd.gov.cn:9107/lawlib/lawlib.shtml   
+陕西 http://sft.shaanxi.gov.cn/public/zwgk/indexPage?type=sxxlist&mlid=001600050004&unitid=000400010001   
+甘肃 http://sft.gansu.gov.cn/List/10   
+青海 http://sft.qinghai.gov.cn/qhsfxz/xxgk/xxgk.html   
+宁夏 https://sft.nx.gov.cn/list?type=3174014360704127784&current=1   
+新疆 http://www.xinjiang.gov.cn/xinjiang/zcfg/zfxxgk_gknr.shtml   
+北京 http://sfj.beijing.gov.cn/sfj/zwgk/zcfg59/index.html    
+上海 http://sfj.sh.gov.cn/zwdt_tzgg/index.html   
+天津 http://sf.tj.gov.cn/zcfg/dfzfgz/   
+重庆 http://sfj.cq.gov.cn/falvfagui/   
+广州 http://sfj.gz.gov.cn/gkmlpt/index#14266   
+深圳 http://sf.sz.gov.cn/xxgk/xxgkml/zcfg/   
+南京 http://sfj.nanjing.gov.cn/njssfj/?id=221   
+武汉 http://www.wh.gov.cn/hbgovinfo/zwgk_8265/szfxxgkml/   
+杭州 http://sft.zj.gov.cn/col/col1371274/index.html
+
+
+
+地区 水利部
+国家 http://www.mwr.gov.cn/zw/zcfg/xzfghfgxwj/
+
+
+地区 国家原子能机构
+国家 http://www.caea.gov.cn/n6759295/n6759296/index.html        通知公告      
+http://www.caea.gov.cn/n6759295/n6759297/index.html      政策公告     
+http://www.caea.gov.cn/n6759295/n6759298/index.html         国际公约
+
+
+
+地区 海关总署
+国家 http://www.customs.gov.cn/customs/302249/302266/index.html  
+
+地区 文化和旅游部
+国家   http://zwgk.mct.gov.cn/?classInfoId=21   
+河北    http://www.hebeitour.gov.cn/Home/ArticleList?id=15.16   
+山西 http://wlt.shanxi.gov.cn/zh/zwgk/zcfg.shtml   
+内蒙古 http://wlt.nmg.gov.cn/zwgk/flfg/   
+辽宁 http://whly.ln.gov.cn/xxgk/zcfg/  
+吉林 http://whhlyt.jl.gov.cn/zwgk/zcfg/   
+黑龙江 http://www.hljwht.gov.cn/zwgk/lists/id/42/type/19.html   
+江苏 http://wlt.jiangsu.gov.cn/col/col48955/index.html?number=02   
+浙江 http://ct.zj.gov.cn/col/col1653841/index.html   
+安徽 https://ct.ah.gov.cn/html/infopublic/list-01040101-1.html 
+福建 http://wht.fujian.gov.cn/zwgk/zcfg/ 
+江西 http://dct.jiangxi.gov.cn/col/col14746/index.html 
+山东 http://whhly.shandong.gov.cn/col/col100523/index.html?number=SD02 
+河南 https://hct.henan.gov.cn/zwgk/zcfg/ 
+广东 http://whly.gd.gov.cn/open_new_newzfwj/index.html 
+广西 http://wlt.gxzf.gov.cn/zwgk/tzgg/index.shtml 
+海南 http://lwt.hainan.gov.cn/xxgk_55333/0200/0202/?ClassInfoId=1895 
+四川 http://wlt.sc.gov.cn/scwlt/gsgg/government_open.shtml 
+贵州 http://whhly.guizhou.gov.cn/zwgk/xxgkml/jcxxgk/zcwj/dwwj/index.html 
+云南 http://www.whyn.gov.cn/list/index/3 
+陕西 http://whhlyt.shaanxi.gov.cn/government/government.html?id=8 
+甘肃 http://wlt.gansu.gov.cn/zcwj/index.jhtml 
+青海 http://whlyt.qinghai.gov.cn/xwdt/tzgg/index.html 
+宁夏 http://whhlyt.nx.gov.cn/list_t.jsp?cid=10934 
+新疆 http://wlt.xinjiang.gov.cn/xxgk/zcfg1.htm 
+北京 http://whlyj.beijing.gov.cn/zfxxgk/zcwj/ 
+上海 http://whlyj.sh.gov.cn/shswhhlyj/zcfg/zcfg.html  
+天津 http://whly.tj.gov.cn/pages/info-list.html#?type=0/2/3   
+重庆 http://whlyw.cq.gov.cn/list-2549-1.html   
+广州 http://wglj.gz.gov.cn/zwpd/xxgk/bmwj/lyflfggz/index.html   
+深圳 http://wtl.sz.gov.cn/xxgk/zcfgjzcjd/whscsp/   
+南京 http://wlj.nanjing.gov.cn/njswhgdxwcbj/?id=221   
+武汉 http://wlj.wuhan.gov.cn/html/wjtz/   
+杭州 http://wgly.hangzhou.gov.cn/col/col1692856/index.html   
+
+地区 人民银行
+国家 http://www.pbc.gov.cn/tiaofasi/144941/index.html
+
+地区 科学技术部
+国家 http://www.most.gov.cn/kjzc/
+
